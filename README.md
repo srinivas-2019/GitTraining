@@ -1,3 +1,3 @@
 # GitTraining
 Repository created for training on Git
-This is for staging 
+This is for working directory 
