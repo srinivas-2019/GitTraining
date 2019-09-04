@@ -1,5 +1,8 @@
 This is text file to test GIT commands
 Added working line in test file
-Added a copywrite notice 
+Added a copywrite notice
+
+Srinivas_tankala
+Srinivas.gupta@gmail.com
 
 Branching test
