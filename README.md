@@ -1,5 +1,4 @@
 # GitTraining heading
-## sub heading
-## Deployment
-Repository created for training on Git
-This is for working directory
+## Sub Heading
+
+#Line in the commit stage
