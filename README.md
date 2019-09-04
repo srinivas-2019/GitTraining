@@ -3,4 +3,6 @@
 
 #Line in the commit stage
 #this line is for stage
-#this line for working area 
+#this line for working area
+
+Adding copywrite notice here
